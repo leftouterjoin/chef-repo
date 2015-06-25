@@ -1,0 +1,2 @@
+sudo env PATH=$PATH chef-solo -c solo.rb -j ./localhost.json
+
